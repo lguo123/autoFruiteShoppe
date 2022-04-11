@@ -1,10 +1,10 @@
-package com.qa.fullStory.tc;
+package test.java.com.qa.fullStory.tc;
 
 import java.util.List;
 import org.openqa.selenium.*;
 import org.openqa.selenium.logging.LogType;
 import org.testng.annotations.Test;
-import com.qa.fullStory.po.Checkout;
+import test.java.com.qa.fullStory.po.Checkout;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.logging.LogEntries;

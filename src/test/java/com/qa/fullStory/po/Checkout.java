@@ -1,4 +1,4 @@
-package com.qa.fullStory.po;
+package test.java.com.qa.fullStory.po;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

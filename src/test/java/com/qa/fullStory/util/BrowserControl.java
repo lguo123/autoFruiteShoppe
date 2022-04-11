@@ -1,4 +1,4 @@
-package com.qa.fullStory.util;
+package test.java.com.qa.fullStory.util;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
